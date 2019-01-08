@@ -6,11 +6,11 @@
 ## 期末考用
 #### Q1
 
-$f(x) = e^{2x}*sin(3x) $    
+$f(x) = e^{2x}*sin(3x) $:mathjax    
 
-$\frac {d}{dx}f(x) = 2*e^{2x}*sin(3x) + e^{2x}*3*cos(3x) $    
+$$ \frac {d}{dx}f(x) = 2*e^{2x}*sin(3x) + e^{2x}*3*cos(3x) $$    
 
-$\int f(x) dx. = \frac {1}{13} * e^{2x} * (2*sin(3x) - 3*cos(3x)) $    
+$$\int f(x) dx. = \frac {1}{13} * e^{2x} * (2*sin(3x) - 3*cos(3x)) $$    
 
 \#1
 用3點、5點差分法解 $ \frac {df}{dx} $ ，h(間距)自訂，誤差要壓在 $ 10^{-4}$ 以內。求h?    
