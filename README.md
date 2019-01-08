@@ -20,7 +20,7 @@
 
 #### Q2
 
-![\frac {dy}{dx} = f(x) = (1+2x)\sqrt{y}  ](https://latex.codecogs.com/gif.latex?%5Cfrac%20%7Bdy%7D%7Bdx%7D%20%3D%20f%28x%29%20%3D%20%281&plus;2x%29%5Csqrt%7By%7D)
+![\frac {dy}{dx} = f(x) = (1+2x)\sqrt{y}  ](https://latex.codecogs.com/gif.latex?%5Cfrac%20%7Bdy%7D%7Bdx%7D%20%3D%20f%28x%29%20%3D%20%281&plus;2x%29%5Csqrt%7By%7D)    
 y(0) = 1 , 0 ≦ x ≦ 1    
 解上面這個ODE(常微分方程)，用 Heun's(霍英法)、midpoint(中點法)、Runge-Kutta 4階，三種方法。    
 
