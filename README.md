@@ -6,9 +6,9 @@
 ## 期末考用
 #### Q1
 
-$f(x) = e^{2x}*sin(3x) $:mathjax    
+$f(x) = e^{2x}*sin(3x) $    
 
-$$ \frac {d}{dx}f(x) = 2*e^{2x}*sin(3x) + e^{2x}*3*cos(3x) $$    
+$ \frac {d}{dx}f(x) = 2\*e^{2x}\*sin(3x) + e^{2x}\*3\*cos(3x) $    
 
 $\int f(x) dx. = \frac {1}{13} * e^{2x} * (2*sin(3x) - 3*cos(3x)) $    
 
