@@ -11,7 +11,7 @@
 
 - <img src="https://latex.codecogs.com/gif.latex? \int f(x) dx. = \frac {1}{13} * e^{2x} * (2*sin(3x) - 3*cos(3x))" >
 
-
+![c](https://latex.codecogs.com/gif.latex?%24%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%20f%28x%29%24)
 \#1
 用3點、5點差分法解 df/dx ，h(間距)自訂，誤差要壓在 10^(-4) 以內。求h?    
 
