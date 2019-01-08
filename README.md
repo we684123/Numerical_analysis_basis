@@ -5,13 +5,13 @@
 ----
 ## 期末考用
 #### Q1
-- <img src="https://latex.codecogs.com/gif.latex?f(x) = e^{2x}*sin(3x) " />
 
-- <img src="https://latex.codecogs.com/gif.latex? \frac {d}{dx}f(x) = 2*e^{2x}*sin(3x) + e^{2x}*3*cos(3x)" >
+![f(x) = e^{2x}*sin(3x)](https://latex.codecogs.com/gif.latex?f%28x%29%20%3D%20e%5E%7B2x%7D*sin%283x%29)
 
-- <img src="https://latex.codecogs.com/gif.latex? \int f(x) dx. = \frac {1}{13} * e^{2x} * (2*sin(3x) - 3*cos(3x))" >
+![\frac {d}{dx}f(x) = 2*e^{2x}*sin(3x) + e^{2x}*3*cos(3x)](https://latex.codecogs.com/gif.latex?%5Cfrac%20%7Bd%7D%7Bdx%7Df%28x%29%20%3D%202*e%5E%7B2x%7D*sin%283x%29%20&plus;%20e%5E%7B2x%7D*3*cos%283x%29)
 
-![c](https://latex.codecogs.com/gif.latex?%24%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%20f%28x%29%24)
+![\int f(x) dx. = \frac {1}{13} * e^{2x} * (2*sin(3x) - 3*cos(3x))](https://latex.codecogs.com/gif.latex?%5Cint%20f%28x%29%20dx.%20%3D%20%5Cfrac%20%7B1%7D%7B13%7D%20*%20e%5E%7B2x%7D%20*%20%282*sin%283x%29%20-%203*cos%283x%29%29)
+
 \#1
 用3點、5點差分法解 df/dx ，h(間距)自訂，誤差要壓在 10^(-4) 以內。求h?    
 
