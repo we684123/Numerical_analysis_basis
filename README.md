@@ -5,22 +5,23 @@
 ----
 ## 期末考用
 #### Q1
+- <img src="https://latex.codecogs.com/gif.latex?f(x) = e^{2x}*sin(3x) " />
 
-$f(x) = e^{2x}*sin(3x) $    
+- <img src="https://latex.codecogs.com/gif.latex? \frac {d}{dx}f(x) = 2*e^{2x}*sin(3x) + e^{2x}*3*cos(3x)" >
 
-$ \frac {d}{dx}f(x) = 2\*e^{2x}\*sin(3x) + e^{2x}\*3\*cos(3x) $    
+- <img src="https://latex.codecogs.com/gif.latex? \int f(x) dx. = \frac {1}{13} * e^{2x} * (2*sin(3x) - 3*cos(3x))" >
 
-$\int f(x) dx. = \frac {1}{13} * e^{2x} * (2*sin(3x) - 3*cos(3x)) $    
 
 \#1
-用3點、5點差分法解 $ \frac {df}{dx} $ ，h(間距)自訂，誤差要壓在 $ 10^{-4}$ 以內。求h?    
+用3點、5點差分法解 df/dx ，h(間距)自訂，誤差要壓在 10^(-4) 以內。求h?    
 
 \#2
-用任一方式 $ \int_0^2 f(x)dx. $ ，h(間距)自訂，誤差要壓在 $ 10^{-4}$ 以內。求h?    
+用任一方式積 f(x) , x=0~2 ，h(間距)自訂，誤差要壓在 10^(-4) 以內。求h?    
 
 #### Q2
 
-$ \frac {dy}{dx} = f(x) = (1+2x)\sqrt{y} $，y(0) =1，$0\leq x\leq，h=0.05 $。    
+<img src="https://latex.codecogs.com/gif.latex? \frac {dy}{dx} = f(x) = (1+2x)\sqrt{y} $，y(0) =1，$0\leq x\leq，h=0.05 ">
+
 解上面這個ODE(常微分方程)，用 Heun's(霍英法)、midpoint(中點法)、Runge-Kutta 4階，三種方法。    
 
 ----
