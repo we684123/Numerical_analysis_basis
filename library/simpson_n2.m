@@ -1,7 +1,7 @@
 function s = N3_simpson_3(F,tspan,n) 
 
 if mod(n,2)~= 0
-   error('n½Ğ¥Î2­¿¼Æ')
+   error('nè«‹ç”¨2å€æ•¸')
 end
 
 a = tspan(1);

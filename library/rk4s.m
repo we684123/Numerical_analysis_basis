@@ -10,7 +10,7 @@ t=a:h:b;
 %disp('T1');
 %disp(size(t));
 %disp(t);
-t = t'; %¦CÂàÄæ [1,11] -> [11,1]
+t = t'; %åˆ—è½‰æ¬„ [1,11] -> [11,1]
 %disp('T2');
 %disp(size(t));
 %disp(t);
